@@ -1,0 +1,20 @@
+.movie__container {
+  width: auto;
+  height: auto;
+  padding: 2rem;
+}
+
+.movie__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.movie__headerText {
+  text-align: center;
+  margin: 2rem;
+}
+
+.movie_search {
+  width: 50vw;
+}
