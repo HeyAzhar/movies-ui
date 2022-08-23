@@ -77,7 +77,7 @@ const Movie = () => {
         </FormGroup>
       </div>
 
-      <Box sx={{ height: "90vh", width: "100%" }}>
+      <Box sx={{ height: "80vh", width: "100%" }}>
         <DataGrid
           getRowId={(row) => row._id}
           rows={movieList}
